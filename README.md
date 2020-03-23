@@ -1,4 +1,4 @@
-# first
+# Vue Gallery
 
 ## Project setup
 ```
